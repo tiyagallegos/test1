@@ -93,6 +93,11 @@ GAME BOARD
 img {
   margin: 40px 8px 0;
 }
+/* ABOUT CREATOR ==============
+===============================*/
+.aboutCreator{
+  font: orange; 
+}
 
 /* =============================
 FOOTER
